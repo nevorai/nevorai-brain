@@ -4,7 +4,7 @@ Last checked: 2026-11-07 (generated from the live plan table by tools/build-pric
 
 All prices are in Indian rupees. Yearly plans save about 2 months. Extra views can be bought any time from the Billing page inside Flow. You can move to a bigger plan any time and pay only the difference. No free trial; the 7-day money-back guarantee covers the first paid plan.
 
-## Plans
+## Nevorai Flow plans
 
 ### Basic plan
 - Price: Rs 299 per month, or Rs 2,990 per year
@@ -22,7 +22,7 @@ All prices are in Indian rupees. Yearly plans save about 2 months. Extra views c
 - Price: Rs 5,999 per month, or Rs 59,990 per year
 - Views: Unlimited video views
 
-## Links
+## Nevorai Flow links
 
 - All plans: https://flow.nevorai.com/pricing
 - Sign up: https://flow.nevorai.com/auth

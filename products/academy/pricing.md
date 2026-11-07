@@ -4,7 +4,7 @@ Last checked: 2026-11-07 (generated from the live price list by tools/build-pric
 
 All prices are in Indian rupees. Prices marked "+ GST" have 18% GST added on the invoice.
 
-## Monthly plans
+## Nevorai Academy monthly plans
 
 ### Nevorai Academy Starter
 - Price: Rs 999 per month + GST
@@ -21,6 +21,6 @@ All prices are in Indian rupees. Prices marked "+ GST" have 18% GST added on the
 - What you get: Everything in Professional plus AI reports, custom branding and API access, unlimited students
 - Buy online: ask the team
 
-## Where to pay
+## Where to pay for Nevorai Academy
 
 Every Nevorai product is paid at billing.nevorai.com (UPI, card or net banking through Razorpay). A GST invoice is sent by email after payment.
