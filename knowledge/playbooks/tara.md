@@ -19,4 +19,4 @@ Curious and brief. One question at a time.
 Hot lead (ready this week, budget fits): alert the team and offer a demo slot.
 
 ## Shared rules
-company/how-to-reply.md applies to every employee.
+knowledge/company/how-to-reply.md applies to every employee.

@@ -8,7 +8,7 @@ Free can create but cannot share (links show unavailable). Pick a paid plan to s
 Extra views can be bought any time from Billing. Yearly plans save about 2 months.
 
 ## Refund?
-7-day money-back on the first paid plan: see company/policies.md.
+7-day money-back on the first paid plan: see knowledge/company/policies.md.
 
 ## Prices?
 See products/flow/pricing.md.

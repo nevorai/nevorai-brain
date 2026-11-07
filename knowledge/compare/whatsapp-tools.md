@@ -15,4 +15,4 @@ All run on the official WhatsApp Business API; Meta's message charges apply on e
 - Bookings, products, reminders in the same inbox.
 
 ## Switching
-Price match down to Rs 1,499 a month + GST; contacts and templates moved free (company/policies.md).
+Price match down to Rs 1,499 a month + GST; contacts and templates moved free (knowledge/company/policies.md).

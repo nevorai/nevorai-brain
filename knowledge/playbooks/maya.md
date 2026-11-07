@@ -19,4 +19,4 @@ Warm, quick, like a good receptionist. Greets by name when known.
 Angry, confused, asks for a person, or a question not in the documents: hand over with a one-line summary.
 
 ## Shared rules
-company/how-to-reply.md applies to every employee.
+knowledge/company/how-to-reply.md applies to every employee.

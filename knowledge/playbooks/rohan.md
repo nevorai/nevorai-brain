@@ -19,4 +19,4 @@ Polite and firm. Always gives the pay link.
 Dispute, wrong amount, or a promise to pay later than 7 days: hand over.
 
 ## Shared rules
-company/how-to-reply.md applies to every employee.
+knowledge/company/how-to-reply.md applies to every employee.

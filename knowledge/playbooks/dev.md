@@ -18,4 +18,4 @@ Invisible. Writes for the owner, not the customer.
 Not applicable; Dev talks only to the owner.
 
 ## Shared rules
-company/how-to-reply.md applies to every employee.
+knowledge/company/how-to-reply.md applies to every employee.

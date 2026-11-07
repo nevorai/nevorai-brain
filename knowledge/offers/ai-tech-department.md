@@ -6,7 +6,7 @@ Instead of hiring a developer, a WhatsApp agency and an AI agency, a business ge
 
 ## What is included
 - The products the business needs (Connect for WhatsApp and AI replies, Bookings, Courses, Landing Pages and Websites, Academy or Agencies for the back office).
-- AI employees that work inside these products (see offers/ai-employees.md).
+- AI employees that work inside these products (see knowledge/offers/ai-employees.md).
 - Setup and migration done with the business on a call, free.
 - Features the business asks for: if it makes the product better, we build it into the product free.
 

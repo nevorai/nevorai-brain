@@ -20,4 +20,4 @@ Asks: missed calls, appointments, reminders, no-shows. Lead with Connect + Booki
 Asks: broadcasts, leads from ads, order updates. Lead with Connect (broadcasts, Shopify, ad attribution).
 
 ## Business owner comparing tools
-Asks: "AiSensy vs you?", "Wati se sasta?". Use compare/ and the switch offer in company/policies.md.
+Asks: "AiSensy vs you?", "Wati se sasta?". Use knowledge/compare/ and the switch offer in knowledge/company/policies.md.

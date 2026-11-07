@@ -35,7 +35,7 @@ A Bookings page inside Connect (Nevorai Bookings) shows the owner's next meeting
 A chat button for your website, website enquiry forms into the inbox, lead pages.
 
 ## AI team (preview)
-AI employees with one job each (receptionist, lead setter, follow-up, support, collections, back office), each switched on by the owner, starting in Suggest mode. See offers/ai-employees.md.
+AI employees with one job each (receptionist, lead setter, follow-up, support, collections, back office), each switched on by the owner, starting in Suggest mode. See knowledge/offers/ai-employees.md.
 
 ## Integrations
 

@@ -7,7 +7,7 @@ Last checked: 2026-11-07.
 - "Free hai kya?" = Is it free? → trial and free-plan facts per product.
 - "Mera number chalega?" = Can I use my own number? → Connect FAQ: yes, moved to the API.
 - "Team ke liye?" = For a team? → seats per plan.
-- "Refund milega?" = Will I get a refund? → company/policies.md.
+- "Refund milega?" = Will I get a refund? → knowledge/company/policies.md.
 - "Baad mein batata hoon" = I'll tell you later → objections: will think.
 - "Mehenga hai" = It is expensive → objections: too expensive.
 - "Link bhejo" = Send the link → the sign-up or pricing link of that product.

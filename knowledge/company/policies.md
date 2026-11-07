@@ -20,4 +20,4 @@ Tell us what you pay now. We match it on the plan that fits, down to Rs 1,499 a 
 WhatsApp's own per-message charges (template messages) are paid by the business directly to Meta on its own account. Nevorai adds nothing on top.
 
 ## Your data
-Your contacts, chats and files are private to your business and never shared with another business. Nevorai's AI reads your business's data to answer your customers; the privacy policy says so. See trust/security-and-data.md.
+Your contacts, chats and files are private to your business and never shared with another business. Nevorai's AI reads your business's data to answer your customers; the privacy policy says so. See knowledge/trust/security-and-data.md.

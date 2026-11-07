@@ -20,4 +20,4 @@ Friendly, short, never pushy. Refers to what they asked before.
 Reply with a question Seven cannot answer: hand over.
 
 ## Shared rules
-company/how-to-reply.md applies to every employee.
+knowledge/company/how-to-reply.md applies to every employee.
